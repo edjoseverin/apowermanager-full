@@ -1,0 +1,1 @@
+# apowermanager-full
